@@ -9,7 +9,7 @@ When the button is released, the LED turns off.
 - `circuit_diagram.png` — Circuit wiring diagram.
 - `button_led_control.ino` — Arduino code for controlling the LEDs.
 - `README.md` — Task description and file details.
-- 
+  
 # Components
 - Arduino Uno
 - 3x Push Buttons
@@ -18,6 +18,7 @@ When the button is released, the LED turns off.
 - 3x 1kΩ Resistors (for pull-down)
 - Breadboard and Jumper Wires
 
+# Circuit Diagram
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/1e4de85c-a878-47d2-90ed-44c1644196d8" />
 
 # How to Use
