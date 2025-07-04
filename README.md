@@ -26,5 +26,7 @@ When the button is released, the LED turns off.
 1. Upload the `button_led_control.ino` sketch to your Arduino board.
 2. Assemble the circuit exactly as illustrated in `circuit_diagram.png`.
 3. Press any button to activate its corresponding LED, and release to turn it off.
+<br>
+<hr>
 
 **Developed by Abdulaziz AL-Thomali** 
